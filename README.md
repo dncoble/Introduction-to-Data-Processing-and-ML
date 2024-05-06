@@ -32,5 +32,5 @@ Cite as:
   howpublished = {GitHub},  
   title  = {Introduction to Data Processing and ML},   
   year   = {2024},  
-  url    = {https://github.com/ARTS-Laboratory/Data-Processing-and-ML-Starter-Project},    
+  url    = {https://github.com/dncoble/Introduction-to-Data-Processing-and-ML},    
 }
